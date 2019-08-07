@@ -1,7 +1,7 @@
 ### Abount the challenge
 https://www.hackerrank.com/challenges/apple-and-orange/problem
 
-### Benchmark
+### Benchmark (I made 10000 calls)
 #### 01
 ```
    10004 function calls in 0.027 seconds
